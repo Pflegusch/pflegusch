@@ -1,5 +1,3 @@
-![pflegusch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pflegusch&show_icons=true&line_height=27&count_private=true&theme=synthwave) 
-<br />
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pflegusch&theme=synthwave&langs_count=5)
 
 <!--
