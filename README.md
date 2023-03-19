@@ -1,5 +1,5 @@
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pflegusch&theme=synthwave&langs_count=5)
-[![Pflegusch' GitHub Stats](https://github-readme-stats.vercel.app/api?username=pflegusch)](https://github.com/Pflegusch)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pflegusch&theme=synthwave&langs_count=3)
+[![Pflegusch' GitHub Stats](https://github-readme-stats.vercel.app/api?username=pflegusch&theme=synthwave)](https://github.com/Pflegusch)
 
 <!--
 **Pflegusch/pflegusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
