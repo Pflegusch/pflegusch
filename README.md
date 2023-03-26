@@ -1,4 +1,4 @@
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pflegusch&theme=synthwave&langs_count=3)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pflegusch&theme=synthwave&layout=compact)
 [![Pflegusch' GitHub Stats](https://github-readme-stats.vercel.app/api?username=pflegusch&theme=synthwave)](https://github.com/Pflegusch)
 
 <!--
