@@ -1,5 +1,6 @@
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pflegusch&theme=tokyonight&layout=compact)
 [![Pflegusch' GitHub Stats](https://github-readme-stats.vercel.app/api?username=pflegusch&theme=tokyonight&show_icons=true&hide=issues)](https://github.com/Pflegusch)
+![snake gif](https://github.com/Pflegusch/pflegusch/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Pflegusch/pflegusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
