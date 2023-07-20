@@ -2,8 +2,8 @@
 [![Pflegusch' GitHub Stats](https://github-readme-stats.vercel.app/api?username=pflegusch&theme=tokyonight&show_icons=true&hide=issues)](https://github.com/Pflegusch)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pflegusch/pflegusch/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Pflegusch/pflegusch/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <!--
